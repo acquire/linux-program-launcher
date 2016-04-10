@@ -1,0 +1,9 @@
+c:\users\mikw\documents\visual studio 2015\Projects\linux-program-launcher\linux-program-launcher\bin\Debug\linux-program-launcher.exe.config
+c:\users\mikw\documents\visual studio 2015\Projects\linux-program-launcher\linux-program-launcher\bin\Debug\linux-program-launcher.exe
+c:\users\mikw\documents\visual studio 2015\Projects\linux-program-launcher\linux-program-launcher\bin\Debug\linux-program-launcher.pdb
+c:\users\mikw\documents\visual studio 2015\Projects\linux-program-launcher\linux-program-launcher\obj\Debug\linux-program-launcher.csprojResolveAssemblyReference.cache
+c:\users\mikw\documents\visual studio 2015\Projects\linux-program-launcher\linux-program-launcher\obj\Debug\linux_program_launcher.Form1.resources
+c:\users\mikw\documents\visual studio 2015\Projects\linux-program-launcher\linux-program-launcher\obj\Debug\linux_program_launcher.Properties.Resources.resources
+c:\users\mikw\documents\visual studio 2015\Projects\linux-program-launcher\linux-program-launcher\obj\Debug\linux-program-launcher.csproj.GenerateResource.Cache
+c:\users\mikw\documents\visual studio 2015\Projects\linux-program-launcher\linux-program-launcher\obj\Debug\linux-program-launcher.exe
+c:\users\mikw\documents\visual studio 2015\Projects\linux-program-launcher\linux-program-launcher\obj\Debug\linux-program-launcher.pdb
