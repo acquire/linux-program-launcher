@@ -2,6 +2,6 @@
 A winforms program launcher for Linux
 
 
-![alt text]("launcher.png")
+![launcher.png]("launcher.png")
 
 
