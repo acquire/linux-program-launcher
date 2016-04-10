@@ -18,7 +18,7 @@ Alternatively, to exit simply hit ESC key.
 
 I'm running Xubuntu and using XFCE4 desktop environment. I have only tested using this.
 
-Install mono runtime if you havent already.
+Install mono runtime if you havent already. I did this using "sudo apt-get install mono".
 
 Download the .exe and right click on icon and choose "Open with "Mono Runtime"". (Instead of "Open with mono Runtime (Terminal))
 
